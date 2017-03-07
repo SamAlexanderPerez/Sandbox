@@ -9,15 +9,23 @@ section{
   background-color: red;
 }
 header,footer{
-  height: 10%;
-  width: inherit;
-  border: 50px green;
+  margin:0;
+  width: 460px;
+  height:10%;
+  border: 20px dotted white;
   background-color: black;
 }
 article{
   height: 800px;
   width:auto;
   background-color: maroon;
+}
+picture{
+  height: auto;
+  width: 500px;
+}
+.picture img{
+  width: inherit;
 }
 
 .thing{
